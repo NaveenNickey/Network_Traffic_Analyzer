@@ -5,7 +5,7 @@ Network Traffic Analyzer is a Python-based tool designed for analyzing network t
 This tool leverages Scapy, Pandas, and Matplotlib to efficiently parse network packets, compute protocol distributions, detect malicious traffic patterns, and provide insights into network communications.
 
 # 🔥 Features
-📊 Packet Analysis – Extracts source/destination IPs, protocols, and packet sizes.
+📊 Packet Analysis – Extracts source/destination IPs, protocols, and packet sizes.\n
 🔍 Protocol Distribution – Identifies the percentage share of TCP, UDP, ICMP, and other protocols.
 🚨 Port Scanning Detection – Detects potential port-scanning activities based on abnormal packet behavior.
 📈 Traffic Visualization – Generates structured tables and visual representations of network traffic.
