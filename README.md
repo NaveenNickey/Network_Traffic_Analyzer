@@ -12,13 +12,13 @@ This tool leverages Scapy, Pandas, and Matplotlib to efficiently parse network p
 🛠 Customizable Thresholds – Allows users to set thresholds for scanning detection\
 
 # ⚡ Technologies Used
-Python
-Scapy – Packet manipulation & network traffic analysis
-Pandas – Data processing
-Matplotlib – Visualization
-TQDM – Progress tracking
+Python\
+Scapy – Packet manipulation & network traffic analysis\
+Pandas – Data processing\
+Matplotlib – Visualization\
+TQDM – Progress tracking\
 
 # 🛡️ Use Cases
-✔️ Security analysis & threat detection
-✔️ Network monitoring & performance evaluation
-✔️ Identifying unusual traffic patterns
+✔️ Security analysis & threat detection\
+✔️ Network monitoring & performance evaluation\
+✔️ Identifying unusual traffic patterns\
