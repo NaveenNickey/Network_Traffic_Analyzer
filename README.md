@@ -21,4 +21,4 @@ TQDM – Progress tracking
 # 🛡️ Use Cases
 ✔️ Security analysis & threat detection\
 ✔️ Network monitoring & performance evaluation\
-✔️ Identifying unusual traffic patterns\
+✔️ Identifying unusual traffic patterns
