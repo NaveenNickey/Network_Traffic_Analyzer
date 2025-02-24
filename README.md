@@ -9,14 +9,14 @@ This tool leverages Scapy, Pandas, and Matplotlib to efficiently parse network p
 🔍 Protocol Distribution – Identifies the percentage share of TCP, UDP, ICMP, and other protocols.\
 🚨 Port Scanning Detection – Detects potential port-scanning activities based on abnormal packet behavior.\
 📈 Traffic Visualization – Generates structured tables and visual representations of network traffic.\
-🛠 Customizable Thresholds – Allows users to set thresholds for scanning detection\
+🛠 Customizable Thresholds – Allows users to set thresholds for scanning detection
 
 # ⚡ Technologies Used
 Python\
 Scapy – Packet manipulation & network traffic analysis\
 Pandas – Data processing\
 Matplotlib – Visualization\
-TQDM – Progress tracking\
+TQDM – Progress tracking
 
 # 🛡️ Use Cases
 ✔️ Security analysis & threat detection\
